@@ -10,3 +10,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
+
+## URL Deploy
+
+Cloud App in Vercel [https://quiz-project-ayslanpurunga.vercel.app](https://quiz-project-ayslanpurunga.vercel.app)
